@@ -21,7 +21,7 @@ This project leverages the `llama_index` package and Hugging Face embeddings to 
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-repo/apaia-doc-query.git
+    git clone https://github.com/alaeddine-hash/RAG_LLAMA_INDEX.git
     cd apaia-doc-query
     ```
 
